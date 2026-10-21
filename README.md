@@ -2,8 +2,7 @@
   <img src="assets/banner.png" alt="Sterlex Dev — Mark, solo game developer. Gameplay · Systems · Modding · Tooling" width="100%">
 </p>
 
-I'm Mark — a solo game developer building gameplay and systems in **Unity** with **C#** and **C++**. I also make game mods, custom tools and utilities, and write **TypeScript** for developer tooling and automation.
-
+I'm Mark ***, a solo game developer passionate about **gameplay programming, game systems, and physics simulation**. I work primarily with **Unity, C#, and C++**, with the long-term goal of building my own **game physics engine**. Beyond game development, I create **mods for GTA games**, develop custom tools and utilities, and write **TypeScript** simply because I love it.
 <table>
   <tr>
     <td width="40%" valign="top">
