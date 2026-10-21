@@ -7,22 +7,22 @@ I'm Mark — a solo game developer building gameplay and systems in **Unity** wi
 <table>
   <tr>
     <td width="25%" valign="top">
-      <sub><b>01 — GAME DEV</b></sub><br>
+      <sub><b>GAME DEV</b></sub><br>
       <h3>Gameplay &amp; Systems</h3>
       <sub>Solo, start to ship</sub>
     </td>
     <td width="25%" valign="top">
-      <sub><b>02 — MODDING</b></sub><br>
+      <sub><b>MODDING</b></sub><br>
       <h3>Mods &amp; Tools</h3>
       <sub>Custom tools and utilities</sub>
     </td>
     <td width="25%" valign="top">
-      <sub><b>03 — ENGINE</b></sub><br>
+      <sub><b>ENGINE</b></sub><br>
       <h3>Unity · C# · C++</h3>
       <sub>Core code and performance</sub>
     </td>
     <td width="25%" valign="top">
-      <sub><b>04 — TOOLING</b></sub><br>
+      <sub><b>TOOLING</b></sub><br>
       <h3>TypeScript</h3>
       <sub>Just in love</sub>
     </td>
