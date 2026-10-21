@@ -24,7 +24,7 @@ I'm Mark — a solo game developer building gameplay and systems in **Unity** wi
     <td width="25%" valign="top">
       <sub><b>04 — TOOLING</b></sub><br>
       <h3>TypeScript</h3>
-      <sub>Developer tooling and automation</sub>
+      <sub>Just in love</sub>
     </td>
   </tr>
 </table>
