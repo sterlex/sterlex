@@ -16,12 +16,12 @@ I'm Mark — a solo game developer building gameplay and systems in **Unity** wi
       <h3>Mods &amp; Tools</h3>
       <sub>Custom tools and utilities</sub>
     </td>
-    <td width="40%" valign="top">
+    <td width="25%" valign="top">
       <sub><b>ENGINE</b></sub><br>
       <h3>Unity · C# · C++</h3>
       <sub>Core code and performance</sub>
     </td>
-    <td width="40%" valign="top">
+    <td width="25%" valign="top">
       <sub><b>TOOLING</b></sub><br>
       <h3>TypeScript</h3>
       <sub>Just in love</sub>
